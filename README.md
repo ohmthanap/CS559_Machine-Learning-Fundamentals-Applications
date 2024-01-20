@@ -25,5 +25,5 @@ In this course we will talk about the foundational principles that drive machine
 - **Programming:** Python
 - **Libraries:** Tensorflow, Keras
 - **Software:** Jupyter Notebook, Google Colab
-- **ML Skills:** Introduction to Probability & Linear Algebra, Decision Theory, Maximum LIkelihood Estimation & Bayesian estimation, Linear Model, Linear Discriminant function, Perceptron, Fisher Linear Discriminant, PCA, Non-parametric Learning, CLustering, EM, GMM, EM and Latent Variable Model, Probabilistic Graphical Model, Bayesian Network, Neural Network, Support Vector Machine, Decision Tree and Boosting
+- **ML Skills:** Introduction to Probability & Linear Algebra, Decision Theory, Maximum LIkelihood Estimation & Bayesian estimation, Linear Model, Linear Discriminant function, Perceptron, Fisher Linear Discriminant, PCA, Non-parametric Learning, Clustering, EM, GMM, EM and Latent Variable Model, Probabilistic Graphical Model, Bayesian Network, Neural Network, Support Vector Machine, Decision Tree and Boosting
 
